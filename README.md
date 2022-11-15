@@ -1,4 +1,4 @@
-<h1 align="center">I'm Trevor, A BCIT Computer Information Technology Student</h1>
+<h1 align="center">I'm Trevor, a BCIT Computer Information Technology Student</h1>
 
 
 <h3 align="left">Languages and Tools I'm learning at BCIT:</h3>
