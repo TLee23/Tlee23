@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Trevor</h1>
+<h1 align="center">Hi 👋 I'm Trevor</h1>
 <h3 align="center">A graduate from BCIT Computer Information Technology (Diploma) & Digital Forensics + Cybersecurity (Bachelors)</h3>
 
 <p align="left">
